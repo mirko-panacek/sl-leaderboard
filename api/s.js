@@ -41,7 +41,7 @@ function page(title, rows) {
         + 'tr:hover td{background:#161616}'
         + '</style></head><body>'
         + '<h1>' + title + '</h1>'
-        + '<table><tr><th>#</th><th>Name</th><th>Lvl</th></tr>' + rows + '</table>'
+        + '<table><tr><th>#</th><th>Name</th><th style="text-align:right">Level</th></tr>' + rows + '</table>'
         + '</body></html>';
 }
 
