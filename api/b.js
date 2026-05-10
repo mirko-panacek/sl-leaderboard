@@ -25,7 +25,7 @@ function page(title, rows) {
 <style>
 *{margin:0;padding:0;box-sizing:border-box}
 body{background:#0d0d0d;color:#fc0;font-family:'Open Sans',sans-serif;padding:12px}
-h1{font-size:32px;font-weight:700;color:#fff;letter-spacing:3px;text-transform:uppercase;
+h1{font-size:64px;font-weight:700;color:#fff;letter-spacing:3px;text-transform:uppercase;
    border-bottom:1px solid #fc0;padding-bottom:8px;margin-bottom:10px;text-align:center}
 table{width:100%;border-collapse:collapse;font-size:17px}
 th{color:#555;font-size:12px;font-weight:600;letter-spacing:1px;text-transform:uppercase;
