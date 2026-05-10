@@ -25,10 +25,10 @@ function page(title, rows) {
 <style>
 *{margin:0;padding:0;box-sizing:border-box}
 body{background:#0d0d0d;color:#fc0;font-family:'Open Sans',sans-serif;padding:12px}
-h1{font-size:64px;font-weight:700;color:#fff;letter-spacing:3px;text-transform:uppercase;
+h1{font-size:100px;font-weight:700;color:#fff;letter-spacing:3px;text-transform:uppercase;
    border-bottom:1px solid #fc0;padding-bottom:8px;margin-bottom:10px;text-align:center}
-table{width:100%;border-collapse:collapse;font-size:48px}
-th{color:#555;font-size:48px;font-weight:600;letter-spacing:1px;text-transform:uppercase;
+table{width:100%;border-collapse:collapse;font-size:80px}
+th{color:#555;font-size:80px;font-weight:600;letter-spacing:1px;text-transform:uppercase;
    text-align:left;padding:4px 5px;border-bottom:1px solid #222}
 td{padding:5px 5px;border-bottom:1px solid #1a1a1a}
 .r{color:#444;width:26px;font-weight:600}
