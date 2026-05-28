@@ -20,7 +20,7 @@ module.exports = (req, res) => {
             : '<tr><td colspan="3" class="empty">No players</td></tr>';
 
     res.setHeader("Content-Type", "text/html");
-    res.send(page("TOP BREEDERS", rows));
+    res.send(page("TOP GIVERS", rows));
 };
 
 function page(title, rows) {
